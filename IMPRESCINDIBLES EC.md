@@ -117,6 +117,19 @@ variable, por su dirección).
 77. En un procesador con segmentación de cauce, al **aumentar** el número de etapas se produce un **incremento** de las prestaciones.
 78. El registro **WC** es un controlador de **DMA**.
 79. La política de correspondencia de una memoria caché con 1 **único conjunto** es **totalmente asociativa**.
-79. La política de correspondencia de una memoria caché con la **mitad de conjunto que líneas** es **asociativa pr conjuntos de dos vías**.
-
-
+80. La política de correspondencia de una memoria caché con la **mitad de conjunto que líneas** es **asociativa pr conjuntos de dos vías**.
+81. Las máquinas con arquitectura **Von Neuman** ejecutan programas **almacenados**.
+82. El **PC** apunta a la **siguiente instrucción**.
+83. La **palabra de estado** contiene el **código de operación** de la instrucción en curso.
+84. La información sobre el **sentido** de las transferencias de información circula por el bus de  **control**.
+85. Normalmente, el bus de **datos** de un ordenador es **bidireccional**.
+86. Emparejamientos entre tipos de aquitecturas de procesador e instrucciones máquinas:
+ - Pila: xor.
+87. La instrucción **pushf** utiliza direccionamiento **implícito**.
+88. El código **reeentrante** debe usar direccionamiento **relativo**.
+89. Si los códigos de operación de las instrucciones de un procesador tienen diferentes longitudes, se emplean las técnicas de **extensión o Huffman**.
+90. La **modificación** de la secuencia de ejecución es el **segundo** tipo de instruccionesmás usado.
+91. En un sistema de memoria caché el **directorio caché** suele contener **direcciones de bloques**.
+92. El mejor método para **comparar prestaciones** de dos sistemas con CPUs del mismo tipo es usar **prograas d prueba**.
+93. La ejecución de una instrucción en una arquitectura **Von Newmann** suele dividirse en **carga, decodificación, ejecución y escritura**.
+94. 
