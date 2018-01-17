@@ -110,3 +110,7 @@ _______
 72. La **unidad de control** necesita como netrada el registro de estado para poder controlar la ejecución de las instruccions de salto condicional.
 73. **Microcódigo** es el **contenido** de la memoria de control y una **microinstrucción** es una **palabra** de dicha memoria.
 74.**MAR** requiere **menos** señales de control que **MBR**.
+75. Un posible formato de microprogramación se caracteriza como **horizontal** o **vertical** según tenga más o menos **solapamiento, codificación y longitud relativa de microinstrucción**.
+76. El **control residual** se utiliza para **reducir** el tamaño de la memoria de **control**.
+77. En un procesador con segmentación de cauce, al **aumentar** el número de etapas se produce un **incremento** de las prestaciones.
+78. 
