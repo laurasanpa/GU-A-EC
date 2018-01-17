@@ -144,4 +144,6 @@ variable, por su dirección).
 103. Una unidad de control microprogramada se denomina con **secuenciamiento de microinstrucciones explícito** segun tenga o no unn m **micro-contador** de programa atacando a las líneas de dirección de la memoria de control. 
 104. Uno de los **motivos** que impiden que la ganancia de un **cauce segmentado** sea ideal es la **cola de instrucciones**.
 105. La técnica de **adelanto de registros** en un cauce segmentado se usa para **limpiar** el impacto de los riegos de dependencia de datos. 
-106.
+106. Utilizar una caché en el **mismo chip** del procesador **reduce** los tiempos de ejecución.
+107. Las técnicas principales de E/S son **DMA, E/S programada, IRQ**(por interrupciones.
+108. 
