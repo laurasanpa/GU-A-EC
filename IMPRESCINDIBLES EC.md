@@ -132,4 +132,16 @@ variable, por su dirección).
 91. En un sistema de memoria caché el **directorio caché** suele contener **direcciones de bloques**.
 92. El mejor método para **comparar prestaciones** de dos sistemas con CPUs del mismo tipo es usar **prograas d prueba**.
 93. La ejecución de una instrucción en una arquitectura **Von Newmann** suele dividirse en **carga, decodificación, ejecución y escritura**.
-94. 
+94. El conjunt de todos los atributos de un sistema qeu son visibles para el programador y sn necesarios para programasr en lenguaje máquina se denomina **arquitectura del computador**.
+95. El registro de estado **(flags)** es un registro de propósito específico cuyo contenido puede ser vsto directa o indirectamente or el usuario mediante el uso de ciertas instrucciones específicas.
+96. En una arquitectura de  **acumulador**, la instrucción **LOAD X** tranfiere el contenido de la posición de memoria X al acumulador-
+97. Una instrucción máquina del tipo **Add M,R** podría formar parte del repertorio de una máquina con arquitectura **M/M**.
+98. Un **bus** se compone de **líneas de control/estado, líneas de direccción y líneas de datos**.
+99.El **primer computador** electrónico basaba su funcionamiento en **tubos de vacío**.
+100. La instrucción **leave** aasegura que en ese punto del programa ya **NO** hay registros **salva-invocados** que recuperar.
+101. En IA32, para **intercambiar** el valor de dos variables son necesarios al menos **4 mov**.
+102. En IA32, **esp** no puede ser registro **índice**.
+103. Una unidad de control microprogramada se denomina con **secuenciamiento de microinstrucciones explícito** segun tenga o no unn m **micro-contador** de programa atacando a las líneas de dirección de la memoria de control. 
+104. Uno de los **motivos** que impiden que la ganancia de un **cauce segmentado** sea ideal es la **cola de instrucciones**.
+105. La técnica de **adelanto de registros** en un cauce segmentado se usa para **limpiar** el impacto de los riegos de dependencia de datos. 
+106.
