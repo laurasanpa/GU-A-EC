@@ -113,4 +113,8 @@ _______
 75. Un posible formato de microprogramación se caracteriza como **horizontal** o **vertical** según tenga más o menos **solapamiento, codificación y longitud relativa de microinstrucción**.
 76. El **control residual** se utiliza para **reducir** el tamaño de la memoria de **control**.
 77. En un procesador con segmentación de cauce, al **aumentar** el número de etapas se produce un **incremento** de las prestaciones.
-78. 
+78. El registro **WC** es un controlador de **DMA**.
+79. La política de correspondencia de una memoria caché con 1 **único conjunto** es **totalmente asociativa**.
+79. La política de correspondencia de una memoria caché con la **mitad de conjunto que líneas** es **asociativa pr conjuntos de dos vías**.
+
+
