@@ -48,7 +48,9 @@ _______
 24. Según la clasificaciónm/n, las máquinas de **acumulador** son de tipo **1/1**, y las **R/R** de tipo **x/0 con x=2,3**.
 25. El **bus de sistema** es el que conecta la **CPU con Memoria**, ya sea un sitema con un únic bus o con múltiples buses.
 26. La **ecuación básica de rendimiento** calcula el **promedio de las ganancias** obtenidas con una serie de programas de punto entero.
-27. En el modod de direccionamiento del tipo **desplazamiento** puede usarse como **índice** cualquier registro menos **EBP**.
+27. En el modo de direccionamiento del tipo **desplazamiento** puede usarse desplazamiento, cualquier constante de 1,
+2 o 4 bytes (incluso el nombre de una
+variable, por su dirección).
 28. Para traducir una construcción **do-while** de lenguaje C a ensamblador, gcc utiliza un **salto condicional hacia atrás** con la **misma condición** que en C.
 29. El **PC** (flags) **NO** sirve de **entrada** de la **unidad de control**, mientras que **SÍ** lo son: señal de reloj, IR o estado de la unidad de proceso.
 30. La **dirección de la siguiente microinstrucción NO** es salida de la **unidad de control**.
