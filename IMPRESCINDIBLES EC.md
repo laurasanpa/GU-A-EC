@@ -146,4 +146,9 @@ variable, por su dirección).
 105. La técnica de **adelanto de registros** en un cauce segmentado se usa para **limpiar** el impacto de los riegos de dependencia de datos. 
 106. Utilizar una caché en el **mismo chip** del procesador **reduce** los tiempos de ejecución.
 107. Las técnicas principales de E/S son **DMA, E/S programada, IRQ**(por interrupciones.
-108. 
+108. La correspondencia **totalmente asociativa** permite que cualquier dirección se pueda almacenar en cualquier marco de bloque.
+109. En las memorias **RAM** las operaciones de **escritura** sirven como operaciones de **refresco**.
+110. En las transferencias **asíncronas** es necesario establccer un periodo de tiempo máximo después del cual se consider que ha fallado.
+111. Se necesitan al menos **dos** señales de control paraa implementar un **sistema de gestión de interrupciones**. 
+112. Tendría sentido usar **E/S programada sin consulta de estados** en un dispositivo de salida a un **display de 7 segmentos**. 
+113. 
